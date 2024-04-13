@@ -17,8 +17,7 @@
 
 ***
 
-<br>
-## 오삼대학교 수강신청 프로젝트 PPT <a href="https://github.com/kimjeong-eun/jspProject/files/14789364/default.pdf" >다운로드</a>
+## 🖥️ 오삼대학교 수강신청 프로젝트 PPT <a href="https://github.com/kimjeong-eun/jspProject/files/14789364/default.pdf" >클릭</a>하여 다운로드
 
 ***
 <img width="407" alt="image" src="https://github.com/kimjeong-eun/shopProject/assets/150898767/d8c74651-eccf-4acc-abd6-41e3df41be24">
