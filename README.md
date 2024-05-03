@@ -15,9 +15,17 @@
 <img width="407" alt="image" src="https://github.com/kimjeong-eun/shopProject/assets/150898767/ea996c70-01cc-44d1-8672-485401ff6cef">
 <br><br>
 
+## 나의 역할
+공지사항 팝업 구현, 마이페이지, 비밀번호 변경
+
+## 기술스택
+[BE] JSP&Servlet 
+[FE] JavaScript, CSS
+[DB] Oracle
+
 ***
 
-## 🖥️ 오삼대학교 수강신청 프로젝트 PPT <a href="https://github.com/kimjeong-eun/jspProject/files/14789364/default.pdf" >클릭</a>하여 다운로드
+## 🖥️ 오삼대학교 수강신청 프로젝트 PPT <a href="https://github.com/suweeety/jspProject/files/15195882/default.pdf" >클릭</a>하여 다운로드
 
 ***
 <img width="407" alt="image" src="https://github.com/kimjeong-eun/shopProject/assets/150898767/d8c74651-eccf-4acc-abd6-41e3df41be24">
