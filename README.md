@@ -29,6 +29,12 @@
 
 ***
 
+## 오삼대학교 수강신청 웹사이트 <a href="http:192.168.0.142:8011/courseRegistration/sugang/Login.jsp" target=_blank >클릭!</a> 시 홈페이지로 이동합니다.
+
+### Test 계정 로그인
+ID : 20240215
+PW : 1234
+
 ## 🖥️ 오삼대학교 수강신청 프로젝트 PPT <a href="https://github.com/suweeety/jspProject/files/15196038/default.pdf" >클릭</a>하여 다운로드
 
 ***
