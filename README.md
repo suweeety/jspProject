@@ -19,9 +19,9 @@
 <br><br>
 
 ## ⚙️ 개발환경
-* BE : JDK17, Java, JSP&Servlet 
-* FE : CSS, JavaScript
-* DB : Oracle
+* BE : Java, JSP&Servlet 
+* FE : JavaScript, jQuery
+* DB : Oracle DB(11xe)
 * IDE : Eclipse
 * Infra : AWS EC2
 * VCS : git&github
